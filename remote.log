@@ -1,1 +1,2 @@
 bfe3714a-f835-4723-a24b-92d1b719ed47 archive-id=d9b36d5e-5da1-422b-a747-72ad2b58495e autoenable=true encryption=none externaltype=ora name=output-storage type=external url=ria+file:///cbica/projects/RBC/freesurfer_stats/HBN/fs-tabulate/output_ria timestamp=1696560505.738011961s
+c64c659f-eaa9-4343-85c4-aef3e4538818 autoenable=true bucket=fcp-indi datacenter=US encryption=none exporttree=no fileprefix=data/Projects/RBC/HBN_FreeSurfer/ host=s3.amazonaws.com name=fcp-indi partsize=1GiB port=80 public=yes storageclass=STANDARD type=S3 timestamp=1697489127.875961162s
